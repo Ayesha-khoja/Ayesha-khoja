@@ -1,30 +1,20 @@
-![logo](https://github.com/Ayesha-khoja/Ayesha-khoja/blob/main/AYESHA%20KHOJA.png)
-<h1 align="center">Hi 👋, I'm Ayesha khoja</h1>
-<h3 align="center">Passionate IT student with a love for web development.</h3>
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha-khoja&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-khoja" /> </p>
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-khoja" alt="ayesha-khoja" /></a> </p>
+- 🔭 I’m currently working on this page. 
 
-<p align="left"> <a href="https://twitter.com/ayesha_khoja" target="blank"><img src="https://img.shields.io/twitter/follow/ayesha_khoja?logo=twitter&style=for-the-badge" alt="ayesha_khoja" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ayesha-khoja)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Ayesha-khoja/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ayesha-khoja/)  
 
-- 📫 How to reach me **https://www.linkedin.com/in/ayesha-khoja/**
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
-- ⚡ Fun fact **I am an avid traveler and love to explore new places, meet new people, and learn about different cultures.**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayesha-khoja)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayesha_khoja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayesha_khoja" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayesha-khoja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayesha-khoja/" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Ayesha-khoja)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha-khoja&show_icons=true&locale=en" alt="ayesha-khoja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-khoja&" alt="ayesha-khoja" /></p>
+![Profile views](https://gpvc.arturio.dev/Ayesha-khoja)  
