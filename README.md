@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ayesha khoja
 #### Passionate IT student with a love for web development.
-![Passionate IT student with a love for web development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Passionate IT student with a love for web development.](https://media.licdn.com/dms/image/D4D16AQHe2XxyGC3aLw/profile-displaybackgroundimage-shrink_350_1400/0/1676664732121?e=1695859200&v=beta&t=FKTe7iUewg_zuMnoqmEWJ-DmqbYLuKNyycnFdNjPaOM)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
