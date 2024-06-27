@@ -1,4 +1,6 @@
-![logo](https://github.com/Ayesha-khoja/Ayesha-khoja/blob/main/Grey%20Photographic%20Cat%20Funny%20Meme%20(1).png)
+<p align="center">
+  <img src="https://github.com/Ayesha-khoja/Ayesha-khoja/blob/main/Grey%20Photographic%20Cat%20Funny%20Meme%20(1).png" alt="logo" width="150" height="150" />
+</p>
 <h1 align="center">Hello 👋, I'm Ayesha Khoja</h1>
 <h3 align="center">Still in the process of learning and exploring things 🫠✨.</h3>
 
