@@ -3,11 +3,11 @@
 <h3 align="center">Still in the process of learning and exploring things.</h3>
 
 
-<p align="left"> <a href="https://twitter.com/ayesha_khoja" target="blank"><img src="https://img.shields.io/twitter/follow/ayesha_khoja?logo=twitter&style=for-the-badge" alt="ayesha_khoja" /></a> </p>
 
-- 🌱 I’m currently learning **C and C++**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ayesha-khoja/**
+
+
+- 📫 Let's connect: **https://www.linkedin.com/in/ayesha-khoja/**
 
 - ⚡ Fun fact **I am an avid traveler and love to explore new places, meet new people, and learn about different cultures.**
 
