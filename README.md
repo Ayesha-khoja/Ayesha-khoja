@@ -1,6 +1,6 @@
-![logo](https://github.com/Ayesha-khoja/Ayesha-khoja/blob/main/AYESHA%20KHOJA.png)
-<h1 align="center">Hi 👋, I'm Ayesha khoja</h1>
-<h3 align="center">Passionate IT student with a love for web development.</h3>
+
+<h1 align="center">Hello 👋, I'm Ayesha khoja</h1>
+<h3 align="center">Still in the process of learning and exploring things.</h3>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
