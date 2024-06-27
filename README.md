@@ -4,14 +4,7 @@
 
 
 
-
-
-
-- 📫 Let's connect: **https://www.linkedin.com/in/ayesha-khoja/**
-
-- ⚡ Fun fact **I am an avid traveler and love to explore new places, meet new people, and learn about different cultures.**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">let's Connect:</h3>
 <p align="left">
 <a href="https://twitter.com/ayesha_khoja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayesha_khoja" height="30" width="40" /></a>
 <a href=https://www.linkedin.com/in/ayesha-khoja/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayesha-khoja/" height="30" width="40" /></a>
